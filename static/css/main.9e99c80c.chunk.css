@@ -1,0 +1,2 @@
+.pagination-container{width:100%;font-weight:500;font-size:15px}.pagination-container,.pagination-container a{display:flex;justify-content:center;align-items:center}.pagination-container a{color:#000;height:40px;width:40px;text-decoration:none;transition:background-color .2s;border:1px solid #ddd;cursor:pointer}.pagination-container a.active{background-color:#007bff;color:#fff;border:1px solid #7cbddb}.pagination-container a.disabled{opacity:.2}.pagination-container a:hover:not(.active){background-color:#eee}
+/*# sourceMappingURL=main.9e99c80c.chunk.css.map */
